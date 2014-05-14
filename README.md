@@ -11,3 +11,5 @@ United_States -> Federalism -> Adolf_Hitler
 ```
 node hitler.js United_States
 ```
+
+Disclaimer: I wrote this for fun in less than 2 hours, the code isn't the greatest.
